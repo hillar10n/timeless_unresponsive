@@ -1,0 +1,520 @@
+body {
+    margin: 0px;
+}
+/*****************************
+******************************
+/****** HEADER AREA **********
+******************************
+*****************************/
+
+#minih {
+    height: 50px;
+    background-color: red;
+}
+
+#nmnav {
+    height: 100px;
+    background-color: blanchedalmond;
+    margin-top: 0px;
+    padding: 0px;
+    position: relative;
+    max-width: auto;
+}
+
+#head {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+}
+
+#nav {
+    height: 45px;
+	padding-top: 0px;
+    margin-top: 0px;
+    position: absolute;
+    right: 80px;
+    bottom: 25px;
+}
+
+ul {
+    margin: 0px ;
+	padding: 0px;
+	list-style-type: none;
+   
+}
+
+ul li {
+    float: left;
+    height: 45px;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+	display: inline-block;
+    margin-right: 3px;
+
+}
+
+ul li a{
+    text-decoration: none;
+    display: block;
+    height: 30px;
+    max-width: 100%;
+    padding: 14px 16px;
+}
+
+
+ul li a:hover {
+   border: 2px solid red;
+    display:  inline-block;
+    border-radius: 20px;
+}
+
+
+#navp {
+    position: absolute;
+    right: 30px;
+    bottom: 35px;
+	line-height: 45px;
+}
+
+
+
+#content {
+    height: auto;
+    position: relative;
+}
+
+
+#was {
+    width:1349px ;
+    height: auto;
+    margin: 0px;
+}
+
+#qout {
+    height: 200px;
+    width: 400px;
+    background-color: dimgrey;
+    opacity: .6;
+    position: absolute;
+    top: 150px;
+    left: 110px;
+}
+
+#qout1 {
+    height: 200px;
+    width: 380px;
+    padding: 0 auto;
+    margin: 0 auto;
+    position: absolute;
+    top: 150px;
+    left: 110px;
+    text-align: center;
+    color: beige;
+}
+
+.bigh1 {
+	text-align: center;
+	padding-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+#v1 {
+	position: absolute;
+	left: 30px;
+}
+
+#v2 {
+	position: absolute;
+	right: 30px;
+}
+
+#v1, #v2{
+	top: 900px;
+	border: 5px solid DimGray;
+	padding: 5px;
+}
+
+
+#qout2 {
+	height: 350px;
+	position: absolute;
+	background-color: DimGray;
+	width: 650px;
+	position: relative;
+	top: 179px;
+	left: 350px;
+	
+}
+
+#qout2 p {
+	line-height: 1.8;
+}
+
+#qout2 h2 {
+	color: red;
+}
+
+
+#qlist1, #qlist2, #qlist3{
+	height: auto;
+	position: absolute;
+	color: white;
+	width: 200px;
+	text-align: center;	
+}
+
+#qlist1 {
+	left: 5px;
+}
+
+
+#qlist2 {
+	left: 220px;
+}
+
+
+#qlist3 {
+	right: 5px;
+}
+
+#daily {
+	height: 500px;
+	width: 1700;
+	margin-top: 200px;
+}
+
+#hhhh, #h, #hh, #w1, #w2, #w3, #ant1, #ant2 {
+	border: 2px solid red;
+	padding: 5px;
+}
+
+#mini {
+	height: 1000px;
+	position: absolute;
+	position: relative;
+}
+
+#pc, #pc3, #pc6 {
+	position: absolute;
+	left: 100px;
+	height: 255px;
+	width: 370px;
+}
+
+#pc5, #pc2, #pc8 {
+	position: absolute;
+	right: 100px;
+	height: 255px;
+	width: 370px;
+}
+
+
+#pc1, #pc4, #pc7 {
+	position: absolute;
+	right: 489px;
+	height: 255px;
+	width: 370px;
+}
+
+#pc4, #pc3, #pc5 {
+	top: 425px;
+}
+
+#pc6, #pc7, #pc8 {
+	top: 700px;
+}
+
+
+#trend {
+	height: 650px;
+	position: relative;
+}
+
+
+#ruins, #friend, #cloth {
+	position: absolute;
+}
+
+
+#ruins{
+	left: 85px;
+}
+
+
+#friend {
+	right: 85px;
+}
+
+
+#cloth {
+	right: 483px;
+}
+
+#trend h1 {
+	color: tomato;
+}
+
+
+.fdwld {
+	height: 45px;
+	width: 130px;
+	background-color: RoyalBlue;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+	display: block;
+	line-height: 45px;
+	border-radius: 5px;
+}
+	
+	
+.fdwld a:hover {
+	background-color: white;
+	display: block;
+	border: 1px  outset RoyalBlue;
+	color: RoyalBlue;
+	border-radius: 5px;
+}
+
+.fdwld a{
+	color: white;
+	text-decoration: none;
+	display: block;
+}
+
+
+#anti {
+	height: 700px;
+}
+
+#ant2 {
+	position: absolute;
+	right: 145px;
+}
+
+
+#ant1 {
+	position: absolute;
+	left: 145px;
+}
+
+
+#note {
+	height: 45px;
+	background-color: MediumAquaMarine;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 25px;
+	padding-top: 15px;
+	width: 1000px;
+}
+
+
+#not1 {
+	height: 150px;
+}
+
+
+#bio {
+	background-color: red;
+	padding-top: 10px;
+	height: 650px;
+}
+
+
+#biog{
+	line-height: 1.8;
+}
+
+
+#sbio {
+	border: solid white 2px;
+	padding: 5px;
+	position: absolute;
+	left: 120px;
+}
+
+
+#bioqout {
+	width: 550px;
+	height: 300px;
+	position: absolute;
+	right: 120px;
+	color: white;
+}	
+
+
+#profA {
+	position: absolute;
+	top: 296px;
+	right: 20px;
+	width: 350px;
+}
+
+
+#fact{
+position: absolute;
+	top: 389px;
+}
+
+
+#factA {
+	position: absolute;
+	top: 389px;
+	right: 20px;
+	width: 350px;
+}
+
+#sub {
+	background-color: Gainsboro ;
+	height: 550px;
+	margin: 0 auto;
+	width: 1200px;
+}
+
+
+#submail {
+	background-color: DarkSeaGreen;
+	height: 50px;
+	text-align: center;
+	padding-top: 8px;
+}
+
+form {
+	text-align: center;
+	font-weight: bold;
+}
+
+.ffill {
+	width: 500px;
+	height: 30px;
+	border-radius: 5px;
+	padding-left: 10px;
+}
+
+
+
+#smit {
+	color: white;
+	background-color: RoyalBlue;
+	display: block;
+	height: 50px;
+	width: 100px;
+	border-radius: 10px;
+}
+
+
+#conta {
+	padding-top: 50px;
+}
+
+
+#blak {
+	background-color: black;
+	height: 850px;
+	position: relative;
+	color: white;
+}
+
+
+#eicon, #iicon, #picon {
+	position: absolute;
+	top: 50px;
+	width: 300px;
+	text-align: center;
+}
+
+
+#eicon {
+	left: 150px;
+}
+
+
+#iicon {
+	left: 520px;
+}
+
+#picon {
+	right: 150px;
+}
+
+
+#form2 {
+	position: absolute;
+	top: 190px;
+}
+
+#contN, #contE, #contS {
+	width: 350px;
+	height: 40px;
+	border: red solid 1px;
+	position: absolute;
+}
+
+
+#contN {
+	left: 130px;
+}
+
+
+#contE {
+	left: 520px;
+}
+
+
+#contS {
+	left: 920px;
+}
+
+
+textarea {
+	position: absolute;
+	top: 100px;
+	left: 130px;
+	height: 300px;
+	width: 30cm;
+}
+
+#mssg {
+	height: 45px;
+	width: 130px;
+	background-color: red;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+	display: block;
+	line-height: 45px;
+	position: absolute;
+	top: 400px;
+	left: 630px;
+	margin-top: 30px;
+}
+
+
+#mssg a:hover {
+	background-color: white;
+	display: block;
+	border: 1px  outset red;
+	color: red;
+}
+
+#mssg a{
+	color: white;
+	text-decoration: none;
+	display: block;
+}
+
+#p01 {
+	position: absolute;
+	top: 700px;
+	left: 500px;
+}
+
+#top {
+	position: absolute;
+	top: 750px;
+	left: 650px;
+	left: 650px;
+}
